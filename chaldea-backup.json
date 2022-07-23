@@ -3284,7 +3284,7 @@
         },
         "99": {
           "cur": {
-            "favorite": false,
+            "favorite": true,
             "ascension": 0,
             "skills": [
               1,
@@ -25949,12 +25949,12 @@
               "npLv": 1
             },
             "99": {
-              "favorite": false,
-              "ascension": 0,
+              "favorite": true,
+              "ascension": 4,
               "skills": [
-                1,
-                1,
-                1
+                10,
+                10,
+                10
               ],
               "appendSkills": [
                 0,
